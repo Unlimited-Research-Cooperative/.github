@@ -50,6 +50,14 @@ Building on this EEG data foundation, our Synthetic Biological Interface (SBI) p
 
 Transitioning from this preliminary stage, our endgame involves the seamless integration with our Closed Loop AI System. This AI, designed to comprehend the features and events derived from our forthcoming experiments, will translate these insights into actionable outputs, be it in a simulated game environment or other dynamic scenarios. Additionally, it will offer real-time feedback, enriching our bio-hybrid system with a continuous loop of information and adaptation. We stand at the precipice of a new era in bio-digital research, and we eagerly invite fellow visionaries to join us on this transformative journey.
 
+<br><br>
+
+<h3 align="center"><a href="https://www.mindomo.com/mindmap/bio-silicon-hybrid-computing-with-details-47e2ff303af44c8b8759f72b9460db43">Map of Synthetic Biological Intelligence</a></h3>
+
+
+
+[![Map of Synthetic Biological Intelligence](https://github.com/Unlimited-Research-Cooperative/.github/blob/main/profile/images/Screenshot%20from%202023-10-12%2008-58-55.png)](https://www.mindomo.com/mindmap/bio-silicon-hybrid-computing-with-details-47e2ff303af44c8b8759f72b9460db43)
+
 
 <br><br>
 <h2 align="center">Get Involved</h2>
