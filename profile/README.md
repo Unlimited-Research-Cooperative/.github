@@ -13,10 +13,11 @@
 <br><br>
 <h2 align="center">Projects</h2>
 
-<h3 align="center">EEG Prediction using applied chaos/dynamical systems theory</h3>
-<h3 align="center">Human cortical organoids</h3>
-<h3 align="center">Bacterial neural nets</h3>
-<h3 align="center">Automated radiotherapy/radiosurgery treatment planning and dosimetry</h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/EEG-Chaos-Kuramoto-Neural-Net">EEG Prediction using applied chaos/dynamical systems theory</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Biological-Silicon-Hybrid-Computing">Human cortical organoids</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network">Bacterial neural nets</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Automated-treatment-planning-and-dosimetry">Automated radiotherapy/radiosurgery treatment planning and dosimetry</a></h3>
+
 
 
 <br><br>
