@@ -1,17 +1,19 @@
 <div align="center">
   <img src="https://github.com/Unlimited-Research-Cooperative/.github/blob/main/profile/images/Unlimited%20Research%20Cooperative(1).jpg?raw=true" alt="Unlimited Research Cooperative Logo">
 </div>
+<br>
 
 <div align="center">
   <a href="https://discord.gg/mJECK72VhD">
     <img src="https://img.shields.io/static/v1?label=Unlimited%20Research%20Cooperative&message=Join%20Now&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
   </a>
 </div>
+<br>
 
 <h1 align="center">Unlimited Research Collaborative</h1>
 
 <p align="center"></p>
-<br><br>
+<br>
 
 <p align="center">Global Minds, Remote Labs: Bridging Ideas & Experiments Across Borders</p>
 <br><br>
