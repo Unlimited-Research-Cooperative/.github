@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/Unlimited-Research-Cooperative/.github/blob/main/profile/images/Unlimited%20Research%20Cooperative(1).jpg?raw=true" alt="Unlimited Research Cooperative Logo">
+</div>
+
+<div align="center">
   <a href="https://discord.gg/mJECK72VhD">
     <img src="https://img.shields.io/static/v1?label=Unlimited%20Research%20Cooperative&message=Join%20Now&color=7289DA&logo=discord&style=for-the-badge" alt="Discord server">
   </a>
@@ -190,3 +194,9 @@ Wavelet Analysis
 <br><br>
 
 <br><br><br><br><br><br>
+<h3 align="center">https://www.mvcs.one/unlimited-research-cooperative</h2>
+<br><br>
+
+<div align="center">
+  <img src="https://github.com/Unlimited-Research-Cooperative/.github/blob/main/profile/images/qr-code.png?raw=true" alt="QR code">
+</div>
