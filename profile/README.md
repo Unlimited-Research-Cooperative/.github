@@ -10,13 +10,24 @@
 </div>
 <br>
 
-<h1 align="center">Unlimited Research Collaborative</h1>
+<h1 align="center">Unlimited Research Cooperative</h1>
 
 <p align="center"></p>
 <br>
 
 <p align="center">Global Minds, Remote Labs: Bridging Ideas & Experiments Across Borders</p>
 <br><br>
+<div align="center">
+  <a href="https://www.patreon.com/synthetic_intelligence">
+    <img src="https://your-patreon-logo-url-here" alt="Support us on Patreon">
+  </a>
+  <br>
+  <a href="https://boosty.to/synthetic_intelligence">
+    <img src="https://your-boosty-logo-url-here" alt="Support us on Boosty">
+  </a>
+</div>
+<br>
+
 <h2 align="center">Projects</h2>
 
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/EEG-Chaos-Kuramoto-Neural-Net">EEG Prediction using applied chaos/dynamical systems theory</a></h3>
