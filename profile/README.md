@@ -30,7 +30,7 @@
 
 <h2 align="center">Projects</h2>
 
-<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/EEG-Chaos-Kuramoto-Neural-Net">EEG Prediction using applied chaos/dynamical systems theory</a></h3>
+<h3 align="center"><a href="https://github.com/Metaverse-Crowdsource/EEG-Chaos-Kuramoto-Neural-Net">EEG Analysis/Prediction using applied chaos/dynamical systems theory</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Biological-Silicon-Hybrid-Computing">Human cortical organoids</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network">Bacterial neural nets</a></h3>
 <h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Automated-treatment-planning-and-dosimetry">Automated radiotherapy/radiosurgery treatment planning and dosimetry</a></h3>
