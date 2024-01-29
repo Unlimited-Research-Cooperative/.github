@@ -30,12 +30,26 @@
 
 <h2 align="center">Projects</h2>
 
-<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat">Bio silicon synergetic learning system</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Human-Brain-Rat">Bio Silicon Synergetic Learning System</a></h3>
+<h3 align="center"><a href="https://github.com/Robotics-Sensors/HASEL-Android">Perfectly Human Androids</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/FastChatWithEmotionAnalyzer">Emotion+Irony+Sentiment analyzer for FastChat (can be used for text to animation for androids and avatars)</a></h3>
 <h3 align="center"><a href="https://github.com/Metaverse-Crowdsource/EEG-Chaos-Kuramoto-Neural-Net">EEG Analysis/Prediction using applied chaos/dynamical systems theory</a></h3>
-<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis">Human cortical organoids</a></h3>
-<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network">Bacterial neural nets</a></h3>
-<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Automated-treatment-planning-and-dosimetry">Automated radiotherapy/radiosurgery treatment planning and dosimetry</a></h3>
-<h3 align="center"> HASEL actuator crab robots </h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/human-cortical-organoid-signal-analysis">Human cortical organoids game systems, signal analysis, stimulation</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/HASEL-crab-bot">HASEL Crab Robots</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/Bacteria-Neural-Network">Bacterial neural nets (starting april 2024)</a></h3>
+<h3 align="center"><a href="https://github.com/Unlimited-Research-Cooperative/SecureVoiceComms-Pro">AES256 Encrypted Radio Dongle</a></h3>
+
+
+<br>
+<br>
+<br>
+🤝 Collaborative Milestones:
+
+- **University of Michigan**: Advancing optical stimulation in "DishBrain" experiment replicas.
+  
+- [**FinalSpark**](https://finalspark.com/): Delving into human cortical spheroid learning mechanisms.
+  
+- [**University of Reading**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria in neural networks.
 
 
 <br>
