@@ -57,6 +57,7 @@
   
 - [**University of Reading**](https://sites.google.com/site/complexlivingmachineslab): Innovative use of bacteria in neural networks.
 
+- [**City, University of London**](https://www.pinotsislab.com/): Systems and states, including harmonics in TES EEG data.
 
 
 <br>
